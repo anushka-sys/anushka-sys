@@ -1,16 +1,14 @@
 <!-- Banner -->
 
-  ![pixelimage](https://github.com/user-attachments/assets/664609e0-ef8f-451b-9024-0f5dd6f1611e)
+
+
+<h1 align="center">Hi 👋, I'm Anushka Wable</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Contributor;Tech+Enthusias" alt="Typing SVG" />
   </a>
 </p>
 
-
-
-
-<h1 align="center">Hi 👋, I'm Anushka Wable</h1>
 <h3 align="center">💻 IT Enthusiast | Web Developer | MERN Stack</h3>
 
 <p align="center">
