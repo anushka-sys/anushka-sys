@@ -1,5 +1,8 @@
 <!-- Banner -->
-<img width="1584" height="396" alt="Dark Modern Developer LinkedIn Banner" src="https://github.com/user-attachments/assets/2c8bc1de-9a6e-49a3-968d-a599d52206f5" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/92fbcb09-beee-45e4-a794-143610dbad26" alt="Pixel Art" width="800" height="350" />
+</p>
+
 
 
 
