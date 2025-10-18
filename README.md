@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/92fbcb09-beee-45e4-a794-143610dbad26" alt="Pixel Art" width="600" height="350" />
+  <img src="https://github.com/user-attachments/assets/92fbcb09-beee-45e4-a794-143610dbad26" alt="Pixel Art" width="800" height="400" />
 </p>
 
 
