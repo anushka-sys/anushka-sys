@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Anushka Wable</h1>
+<h1 align="center">Hi 👋, I'm Anushka Wable </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
